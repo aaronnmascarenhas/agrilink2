@@ -1,0 +1,6 @@
+{
+  "name": "AgriLink — Smart Irrigation & Farm Dashboard",
+  "description": "Precision agronomic dashboard for 2.0-acre farm irrigation, bi-stable solenoid valve control, soil moisture balance, solar LiFePO4 monitoring, and sub-GHz wireless telemetry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
